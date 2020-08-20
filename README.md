@@ -20,6 +20,12 @@ docker
 
 `docker pull mysql`
 
+`$ docker run -it --name test-wolrd-mysql -e MYSQL_ROOT_PASSWORD=mysql -d mysql:latest
+
+$ docker exec -it test-wolrd-mysql bash -p
+
+# MySQLのコンテナにログインする
+$ mysql -u root -p -h 127.0.0.1`
 
 ## Usage
 
