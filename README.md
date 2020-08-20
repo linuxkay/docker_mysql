@@ -24,8 +24,12 @@ docker
 
 $ docker exec -it test-wolrd-mysql bash -p
 
-# MySQLのコンテナにログインする
+# Login mysql container.
 $ mysql -u root -p -h 127.0.0.1`
+
+Install mysql-workbench-community via snap
+
+`snap install mysql-workbench-community`
 
 ## Usage
 
