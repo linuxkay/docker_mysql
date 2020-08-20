@@ -18,7 +18,7 @@ docker
 
 ## Install
 
-
+`docker pull mysql`
 
 
 ## Usage
