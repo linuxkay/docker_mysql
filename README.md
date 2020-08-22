@@ -31,7 +31,7 @@ Install mysql-workbench-community via snap
 
 `snap install mysql-workbench-community`
 
-in ubuntu, hit super and type permissions.
+in ubuntu, hit super and type application.
 
 change permission of mysql-workbench
 
