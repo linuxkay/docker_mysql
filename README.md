@@ -35,7 +35,7 @@ in ubuntu, hit super and type application.
 
 change permission of mysql-workbench
 
-read,add change or remove saved passwords to On
+Make read,add change or remove saved passwords to On
 
 ## Usage
 
