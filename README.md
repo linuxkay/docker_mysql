@@ -25,7 +25,8 @@ docker
 $ docker exec -it test-wolrd-mysql bash -p
 
 # Login mysql container.
-$ mysql -u root -p -h 127.0.0.1`
+
+`$ mysql -u root -p -h 127.0.0.1`
 
 Install mysql-workbench-community via snap
 
@@ -39,10 +40,14 @@ Make read,add change or remove saved passwords to On
 
 ## Usage
 
-start container by
+Start container by
+
 1
+
 `docker run -it --name mysql  -e MYSQL_ROOT_PASSWORD=mysql -d mysql`
+
 2
+
 `docker exec -it mysql bash -p`
 
 Copy file from host to container
