@@ -39,6 +39,15 @@ Make read,add change or remove saved passwords to On
 
 ## Usage
 
+Copy file from host to container
+
+`docker cp 【ホスト OS のファイル】 【コンテナ ID】:【転送先のフルパス】`
+
+`docker cp ./my-host-os-file.txt 00x000xxx000:/tmp`
+
+reference
+https://neos21.hatenablog.com/entry/2019/04/14/080000
+
 ## Contribution
 
 ## Updates
