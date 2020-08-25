@@ -39,6 +39,12 @@ Make read,add change or remove saved passwords to On
 
 ## Usage
 
+start container by
+1
+`docker run -it --name mysql  -e MYSQL_ROOT_PASSWORD=mysql -d mysql`
+2
+`docker exec -it mysql bash -p`
+
 Copy file from host to container
 
 `docker cp 【ホスト OS のファイル】 【コンテナ ID】:【転送先のフルパス】`
