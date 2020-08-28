@@ -12,6 +12,10 @@ Very basic documation of docker mysql setup
 
 ## Overview
 
+Docker - mysql, ssh, and vim.
+
+mysql-work-bench
+
 ## Requirements
 
 docker
