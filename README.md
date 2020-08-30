@@ -12,9 +12,9 @@ Very basic documation of docker mysql setup
 
 ## Overview
 
-Docker - mysql, ssh, and vim.
+Packages to be installed Docker - mysql, ssh, and vim.
 
-mysql-work-bench
+Installation of mysql-work-bench
 
 ## Requirements
 
