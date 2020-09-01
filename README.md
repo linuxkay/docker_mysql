@@ -22,6 +22,8 @@ docker
 
 mysql
 
+mysql-work-bench
+
 ## Install
 
 `docker pull mysql`
