@@ -16,6 +16,8 @@ Packages to be installed Docker - mysql, ssh, and vim.
 
 Installation of mysql-work-bench
 
+Some basic lectures for mysql
+
 ## Requirements
 
 docker
