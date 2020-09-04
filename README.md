@@ -40,7 +40,7 @@ $ docker exec -it test-wolrd-mysql bash -p
 
 Install mysql-workbench-community via snap
 
-* snap version does not accept IME Japanese. Download and install mysql-workbench from website directly will solve this problem.
+* snap version does not accept to type Japanese. Download and install mysql-workbench from website directly solves this problem.
 
 `snap install mysql-workbench-community`
 
