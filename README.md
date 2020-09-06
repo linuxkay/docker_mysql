@@ -38,6 +38,8 @@ $ docker exec -it test-wolrd-mysql bash -p
 
 `$ mysql -u root -p -h 127.0.0.1`
 
+Type password as prompted.
+
 Install mysql-workbench-community via snap
 
 * snap version does not accept to type Japanese. Download and install mysql-workbench from website directly solves this problem.
