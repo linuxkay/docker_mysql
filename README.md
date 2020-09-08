@@ -76,6 +76,12 @@ Copy file from host to container
 reference
 https://neos21.hatenablog.com/entry/2019/04/14/080000
 
+## Words
+
+CSV Commna Separated Values.
+
+TSV Tab Separated Vales.
+
 ## Contribution
 
 ## Updates
