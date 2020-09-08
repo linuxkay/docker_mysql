@@ -90,9 +90,9 @@ https://stackoverflow.com/questions/28038580/how-to-hide-view-result-grid-in-mys
 
 ## Words
 
-CSV Commna Separated Values.
+CSV stands for Commna Separated Values.
 
-TSV Tab Separated Vales.
+TSV stands for Tab Separated Vales.
 
 ## Contribution
 
