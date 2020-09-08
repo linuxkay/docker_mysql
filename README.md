@@ -76,6 +76,18 @@ Copy file from host to container
 reference
 https://neos21.hatenablog.com/entry/2019/04/14/080000
 
+## Troubleshoot
+
+Mysql work bench show grid keep disappearing when clicking execute every time.
+
+close mysql work bench.
+
+rename file 'wb_state.xml' file to 'wb_state-backup.xml'
+
+and reopen mysql work bench.
+
+https://stackoverflow.com/questions/28038580/how-to-hide-view-result-grid-in-mysql-workbench
+
 ## Words
 
 CSV Commna Separated Values.
