@@ -63,6 +63,10 @@ Start container by
 
 `docker run -it --name mysql  -e MYSQL_ROOT_PASSWORD=mysql -d mysql`
 
+or
+
+docker start mysql
+
 2 start docker named mysql. Run bash
 
 `docker exec -it mysql bash -p`
