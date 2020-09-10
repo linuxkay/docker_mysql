@@ -8,3 +8,7 @@ select * from access_logs;
 select 8 from access_logs where request_month >= '2017-01-01' and request_month < '2018-01-01';
 # group by request month
 select request_month, count(distinct user_id) from access_logs where request_month >= '2017-01-01' and request_month < '2018-01-01' group by request_month;
+
+# 2017 show more than 630 users
+#select from where group by having
+select request_month, count(distinct user_id) from access_logs where request_month >= '2017-01-01' and request_month < '2018-01-01' group by request_month having count(distinct user_id)>= 630;
