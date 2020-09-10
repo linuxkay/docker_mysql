@@ -1,0 +1,16 @@
+#記述順序
+1 select
+2 from
+3 where
+4 group by
+5 having
+6 order by
+7 limit
+#実行順序
+1 from
+2 where
+3 group by
+4 having
+5 select
+6 order by
+7 limit
