@@ -14,3 +14,11 @@
 5 select
 6 order by
 7 limit
+記述順序　/ 実行順序
+1 select / from
+2 from / where
+3 where / group by
+4 group by / having
+5 having / select
+6 order by / order by
+7 limit / limit
