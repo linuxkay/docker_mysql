@@ -86,6 +86,8 @@ Mysql work bench grid area(show grid)keeps disappearing when clicking execute ev
 
 close mysql work bench.
 
+find wb_state.xml by following
+
 `sudo find / -name wb_state.xml`
 
 rename file 'wb_state.xml' file to 'wb_state-backup.xml'
