@@ -6,15 +6,15 @@ documentation
 
 ## Description
 
-Very basic documation of docker mysql setup
+Very basic documation of docker mysql setup.
 
 ## Demo in Animation
 
 ## Overview
 
-Packages to be installed Docker - mysql, ssh, and vim.
+Packages to be installed on system: Docker - mysql, ssh, and vim.
 
-Installation of mysql-work-bench
+Installation of mysql-work-bench and troubleshoot.
 
 Some basic lectures for mysql
 
