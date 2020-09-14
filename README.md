@@ -24,7 +24,7 @@ docker
 
 mysql
 
-mysql-work-bench //community edition. Snap version does not accept to type in Japanese on Ubuntu. use Download version instead.
+mysql-work-bench //community edition. Snap version does not accept to type  Japanese on Ubuntu. Use Download version from website instead.
 
 ## Install
 
