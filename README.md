@@ -32,7 +32,7 @@ mysql-work-bench //community edition. Snap version does not accept to type  Japa
 
 `$ docker run -it --name test-wolrd-mysql -e MYSQL_ROOT_PASSWORD=mysql -d mysql:latest
 
-$ docker exec -it test-wolrd-mysql bash -p
+`$ docker exec -it test-wolrd-mysql bash -p`
 
 # Login mysql container.
 
