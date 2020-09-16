@@ -65,7 +65,7 @@ Start container by
 
 or
 
-docker start mysql
+`docker start mysql`
 
 2 start docker named mysql. Run bash
 
