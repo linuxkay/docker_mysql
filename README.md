@@ -71,9 +71,9 @@ or
 
 `docker exec -it mysql bash -p`
 
-Copy file from host to container
+Copy files from host to container
 
-`docker cp 【ホスト OS のファイル】 【コンテナ ID】:【転送先のフルパス】`
+`docker cp 【ホスト OS のファイルパス】 【コンテナ ID】:【転送先のファイルパス】`
 
 `docker cp ./my-host-os-file.txt 00x000xxx000:/tmp`
 
