@@ -84,6 +84,8 @@ https://neos21.hatenablog.com/entry/2019/04/14/080000
 
 Mysql work bench grid area(show grid)keeps disappearing when clicking execute every time.
 
+Very annoying.
+
 close mysql work bench.
 
 find wb_state.xml by following
