@@ -88,7 +88,7 @@ Very annoying.
 
 close mysql work bench.
 
-find wb_state.xml by following
+find wb_state.xml by following commmand
 
 `sudo find / -name wb_state.xml`
 
