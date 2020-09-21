@@ -86,7 +86,7 @@ Mysql work bench grid area(show grid)keeps disappearing when clicking execute ev
 
 Very annoying.
 
-close mysql work bench.
+First, close mysql work bench.
 
 find wb_state.xml by following commmand
 
