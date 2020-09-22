@@ -104,6 +104,14 @@ CSV stands for Commna Separated Values.
 
 TSV stands for Tab Separated Vales.
 
+asc is ascending.
+
+desc is descending.
+
+## Notes
+
+When you try to order Japanese char by `order by` it will not work since mysql does not know the order of Japanese char unlike alphabet. Suggest creating new row with ID next to Kanji or Japanese char in order to make it work.
+
 ## Contribution
 
 ## Updates
