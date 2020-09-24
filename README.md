@@ -110,7 +110,7 @@ desc is descending.
 
 ## Notes
 
-It will not work when you try to order Japanese char by `order by` since mysql does not know the order of Japanese char unlike alphabet. Suggest creating new row with ID next to Kanji or Japanese char in order to make it work.
+It will not work when you try to order Japanese char by `order by` since mysql does not know how to order Japanese char unlike alphabet. Suggest creating new row with ID next to Kanji or Japanese char in order to make this work.
 
 ## Contribution
 
