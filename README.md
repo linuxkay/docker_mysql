@@ -94,7 +94,7 @@ find wb_state.xml by following commmand
 
 rename file 'wb_state.xml' file to 'wb_state-backup.xml'
 
-and re-launch mysql work bench.
+then re-launch mysql work bench.
 
 https://stackoverflow.com/questions/28038580/how-to-hide-view-result-grid-in-mysql-workbench
 
