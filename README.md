@@ -82,7 +82,7 @@ https://neos21.hatenablog.com/entry/2019/04/14/080000
 
 ## Troubleshoot
 
-Mysql work bench grid area(show grid)keeps disappearing when clicking execute every time.
+Grid area(show grid) of mysql work bench keeps disappearing when clicking execute every time.
 
 Very annoying.
 
