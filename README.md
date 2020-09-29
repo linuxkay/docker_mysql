@@ -32,7 +32,11 @@ First pull mysql image from docker repository.
 
 `docker pull mysql`
 
+Run docker by docker run commnad.
+
 `$ docker run -it --name test-wolrd-mysql -e MYSQL_ROOT_PASSWORD=mysql -d mysql:latest
+
+Execute and login with bash by following.
 
 `$ docker exec -it test-wolrd-mysql bash -p`
 
