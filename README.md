@@ -28,6 +28,8 @@ mysql-work-bench //community edition. Snap version does not accept to type  Japa
 
 ## Install
 
+First pull mysql image from docker repository.
+
 `docker pull mysql`
 
 `$ docker run -it --name test-wolrd-mysql -e MYSQL_ROOT_PASSWORD=mysql -d mysql:latest
