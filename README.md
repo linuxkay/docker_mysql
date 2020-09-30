@@ -46,7 +46,7 @@ Execute and login with bash by following.
 
 Type password as prompted.
 
-mysql is the pass for testing.
+mysql is the pass for this testing.
 
 Install mysql-workbench-community via snap
 
