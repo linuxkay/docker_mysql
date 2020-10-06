@@ -31,6 +31,14 @@ mysql-work-bench //community edition. Snap version does not accept to type  Japa
 
 First install docker on your machine by reading at docker official wiki.
 
+Give a normal use to use docker without sudo.
+
+`sudo gpasswd -a $(whoami) docker`
+
+`sudo chgrp docker /var/run/docker.sock`
+
+`sudo service docker restart`
+
 Then pull mysql image from docker repository.
 
 `docker pull mysql`
