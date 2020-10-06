@@ -28,7 +28,10 @@ mysql-work-bench //community edition. Snap version does not accept to type  Japa
 
 ## Install
 
-First pull mysql image from docker repository.
+
+First install docker on your machine by reading at docker official wiki.
+
+Then pull mysql image from docker repository.
 
 `docker pull mysql`
 
